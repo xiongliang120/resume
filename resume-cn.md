@@ -71,11 +71,10 @@
 
 - [Java](https://www.java.com)^†^
 - [Kotlin](http://kotlinlang.org)^†^
+- [Groovy](http://www.groovy-lang.org)
 - [Python](https://www.python.org)
 - [C/C++](http://www.cplusplus.com)
 - [Shell](http://www.linuxshell.it)
-- [JavaScript](https://www.javascript.com)
-- [HTML](https://www.w3.org/html)
 
 
 ### 框架
@@ -90,20 +89,13 @@
 
 ### 工具软件
 
-- [Mac OS X](http://apple.com/macosx)^†^
-- [Adobe Photoshop](http://www.adobe.com/cn/products/cs6/photoshop.html)
-- [Alfred 3](https://www.alfredapp.com)^†^
-- [Android Studio](https://developer.android.com/studio/index.html?hl=zh-cn)^†^
-- [Atom](https://atom.io)^†^
+- [Android Studio](https://developer.android.com/studio/index.html?hl=zh-cn)^
 - [Git](https://git-scm.com)^†^
 - [IntelliJ IDEA](https://www.jetbrains.com/idea)^†^
-- [iTerm](https://www.iterm2.com)^†^
-- [JIRA](https://www.atlassian.com/software/jira)^†^
-- [on-my-zsh](https://github.com/robbyrussell/oh-my-zsh)^†^
 - [Postman](https://www.getpostman.com)^†^
+- [Fidder](https://www.telerik.com/fiddler)^†^
 - [PyCharm](https://www.jetbrains.com/pycharm)
-- [Source Tree](https://www.sourcetreeapp.com)^†^
-- [XMind](https://www.xmind.cn)
+- [ProcessOn](https://www.processon.com/)
 
 
 ## 教育经历
@@ -113,11 +105,8 @@
 
 ## 个人荣誉
 
-* 荣获第 13 届浙江省 **ACM 大赛**；
-* 第 6 届和第 7 届蓝桥杯 **省赛一等**，**国赛二等**；
-* 3 次 **一等校奖学金** 及 3 次 **二等校奖学金**。
-
+* 获得"中兴思秸挑战杯"二等奖;
 
 ## 兴趣爱好
 
-爱折腾，喜欢探索和尝试没有干过的新鲜事物，业余喜爱打羽毛球、跑步。
+爱折腾，喜欢探索和尝试没有干过的新鲜事物，业余喜爱打羽毛球。
