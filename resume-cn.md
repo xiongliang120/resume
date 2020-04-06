@@ -10,8 +10,7 @@
 
 ## 自我描述
 
-我是一名热爱**开源**的安卓开发者，喜欢把自己的代码分享给他人，方便他人学习和提供建议从而完善代码。我追求开发**高质量**及拥有**良好用户体验**的应用，对于这方面我编写了安卓开发的规范性文档 **[AndroidStandardDevelop](https://github.com/Blankj/AndroidStandardDevelop)** ，并把其发布到 GitHub 颇受好评；同样，我注重**开发效率**及**知识的累积**，在 GitHub 拥有 **22k+ stars** 的安卓工具类项目 **[AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)** ，它可以极大地帮助安卓开发者们提升效率；当然，作为一名程序员，我也很是注重数据结构和算法，在 GitHub 上建立了自己的 LeetCode 题解 **[awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode)** ，除此之外我还具有白板编程的能力。
-
+我是一名喜欢技术的安卓开发者, 我追求开发**高质量**以及拥有**良好用户体验**的应用,在app 启动优化,布局优化,包体积优化有一定处理经验; 我注重**开发效率**,在项目中会输出工具类,提高团队工作效率; 我也注重技术的积累,平时也会不断学习提升。
 
 ## 工作经验
 
