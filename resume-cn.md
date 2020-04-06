@@ -81,13 +81,11 @@
 
 ### 框架
 
-- [RxAndroid](https://github.com/ReactiveX/RxAndroid)^†^
-- [EventBus](https://github.com/greenrobot/EventBus)^†^
+- [RxJava](https://github.com/ReactiveX/RxAndroid)^†^
+- [RxBus](https://github.com/greenrobot/EventBus)^†^
 - [Retrofit](https://github.com/square/retrofit)^†^
 - [Gson](https://github.com/google/gson)^†^
 - [Glide](https://github.com/bumptech/glide)^†^
-- [Dagger2](https://github.com/google/dagger)
-
 
 ### 工具软件
 
