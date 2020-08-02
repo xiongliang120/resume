@@ -8,9 +8,15 @@
 - GitHub: [https://github.com/xiongliang120](https://github.com/xiongliang120)
 
 
-## 自我描述
-
-我是一名热爱技术的安卓开发者, 我追求开发**高质量**以及拥有**良好用户体验**的应用,在app 启动优化,布局优化,包体积优化有一定处理经验; 我注重团队**开发效率**,在项目中会输出一些工具类,提高团队工作效率; 我也注重技术的**积累和分享**,平时也会通过github,csdn来获取技术，不断学习提升。
+## 专业技能
+1)
+2)
+3)
+4)
+5)
+6)
+7)
+8)
 
 ## 工作经验
 
@@ -65,38 +71,9 @@
 * 参与流媒体底层协议JNI的对接；
 
 
-## 技能专长
+## 自我描述
 
-以下都是我平时用过或熟悉的编程语言、框架、软件及工具，带 ^†^ 符号的是我比较喜欢和常用的。
-
-### 编程语言
-
-- [Java](https://www.java.com)^†^
-- [Kotlin](http://kotlinlang.org)^†^
-- [Groovy](http://www.groovy-lang.org)
-- [Python](https://www.python.org)
-- [C/C++](http://www.cplusplus.com)
-- [Shell](http://www.linuxshell.it)
-
-
-### 框架
-
-- [RxJava](https://github.com/ReactiveX/RxAndroid)^†^
-- [RxBus](https://github.com/greenrobot/EventBus)^†^
-- [Retrofit](https://github.com/square/retrofit)^†^
-- [Gson](https://github.com/google/gson)^†^
-- [Glide](https://github.com/bumptech/glide)^†^
-
-### 工具软件
-
-- [Android Studio](https://developer.android.com/studio/index.html?hl=zh-cn)^
-- [Git](https://git-scm.com)^†^
-- [IntelliJ IDEA](https://www.jetbrains.com/idea)^†^
-- [Postman](https://www.getpostman.com)^†^
-- [Fidder](https://www.telerik.com/fiddler)^†^
-- [PyCharm](https://www.jetbrains.com/pycharm)
-- [ProcessOn](https://www.processon.com/)
-
+我是一名热爱技术的安卓开发者, 我追求开发**高质量**以及拥有**良好用户体验**的应用,在app 启动优化,布局优化,包体积优化有一定处理经验; 我注重团队**开发效率**,在项目中会输出一些工具类,提高团队工作效率; 我也注重技术的**积累和分享**,平时也会通过github,csdn来获取技术，不断学习提升。
 
 ## 教育经历
 
