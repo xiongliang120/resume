@@ -8,26 +8,34 @@
 - GitHub: [https://github.com/xiongliang120](https://github.com/xiongliang120)
 
 
-## 自我描述
+## 专业技能
 
-我是一名热爱技术的安卓开发者, 我追求开发**高质量**以及拥有**良好用户体验**的应用,在app 启动优化,布局优化,包体积优化有一定处理经验; 我注重团队**开发效率**,在项目中会输出一些工具类,提高团队工作效率; 我也注重技术的**积累和分享**,平时也会通过github,csdn来获取技术，不断学习提升。
+* 对组件化架构有深入的实战经验；
+* 对内存优化，有实际调优经验；
+* 对app启动优化，有实际调优经验；
+* 对app包体积减小有实际工作经验；
+* 熟悉UI，熟悉自定义UI，能利用事件分发原理解决UI交互问题；
+* 对UI界面设计和优化有实际工作经验；
+* 精通java语言，熟悉常用设计模式，多次采用设计模式重构app代码；
+* 熟悉数据结构和算法；
+* 熟悉kotlin语言；
 
 ## 工作经验
 
 ### **高级 Android 开发工程师** [加满分科技](https://www.qiuhui.com/)
 
-*2019/7 - 至今*
+*2019/7 - 至今(在职)*
 
 在「技术部-移动Android部门」下主要负责 Android 端的 球会体育App的优化和开发，主要内容如下：
 
+* 负责球会app 组件化改造,将分享，支付，数据统计，图片加载，网络，播放器 抽离成功能组件； 
+* 负责球会app 推送功能模块封装，采用门面模式和代理模式，可以自由切换友盟推送和极光推送；
 * 负责球会App 启动优化，加快启动时间3s；
 * 负责球会App 布局加载耗时监测，布局优化，并输出到团队提高app性能；
 * 负责球会App 包体积优化；
-* 负责球会App 编译脚本优化，缩短app编译时长；
 * 封装图片监测工具类，监测图片尺寸过大；
-* 负责公共工具库封装提高团队开发效率，例如RxJava，封装线程调度工具，定时器；
 * 负责Web页面加载优化，包括资源预加载，加载中占位图；
-* 负责落地页自定义控件开发；
+* 完成产品功能迭代与性能调优；
 
 ### **高级 Android 开发工程师** [云迈科技]
 
@@ -43,9 +51,9 @@
 
 ### **Android 开发工程师** [深圳潮越互动科技]
 
-*2017/11 - 2019/03*
+*2016/12 - 2019/03*
 
-在「Android 开发部」中参与功能开发以及组件化改造，其主要职责如下：
+在「Android 开发部」中负责功能开发以及主导组件化改造，其主要职责如下：
 
 * 负责项目组件化改造，优化代码结构，提高开发效率；
 * 提取开发中的公共组件模块，合理分类并封装它们，提升组件复用性；
@@ -56,7 +64,7 @@
 ### **Android 开发工程师** [北京四达集团]
 
 
-*2015/06 - 2017/10*
+*2015/06 - 2016/12*
 
 在安卓团队中主要从事智能电视方面应用的开发，其主要经历如下：
 
@@ -65,38 +73,9 @@
 * 参与流媒体底层协议JNI的对接；
 
 
-## 技能专长
+## 自我描述
 
-以下都是我平时用过或熟悉的编程语言、框架、软件及工具，带 ^†^ 符号的是我比较喜欢和常用的。
-
-### 编程语言
-
-- [Java](https://www.java.com)^†^
-- [Kotlin](http://kotlinlang.org)^†^
-- [Groovy](http://www.groovy-lang.org)
-- [Python](https://www.python.org)
-- [C/C++](http://www.cplusplus.com)
-- [Shell](http://www.linuxshell.it)
-
-
-### 框架
-
-- [RxJava](https://github.com/ReactiveX/RxAndroid)^†^
-- [RxBus](https://github.com/greenrobot/EventBus)^†^
-- [Retrofit](https://github.com/square/retrofit)^†^
-- [Gson](https://github.com/google/gson)^†^
-- [Glide](https://github.com/bumptech/glide)^†^
-
-### 工具软件
-
-- [Android Studio](https://developer.android.com/studio/index.html?hl=zh-cn)^
-- [Git](https://git-scm.com)^†^
-- [IntelliJ IDEA](https://www.jetbrains.com/idea)^†^
-- [Postman](https://www.getpostman.com)^†^
-- [Fidder](https://www.telerik.com/fiddler)^†^
-- [PyCharm](https://www.jetbrains.com/pycharm)
-- [ProcessOn](https://www.processon.com/)
-
+我是一名热爱技术的安卓开发者, 我追求开发**高质量**以及拥有**良好用户体验**的应用,在app 启动优化,布局优化,包体积优化有一定处理经验; 我注重团队**开发效率**,在项目中会输出一些工具类,提高团队工作效率; 我也注重技术的**积累和分享**,平时也会通过github,csdn来获取技术，不断学习提升。
 
 ## 教育经历
 
